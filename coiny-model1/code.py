@@ -1,5 +1,5 @@
 """
-Coin detection using HoughCircles 
+Coin Detection(coiny) Model1 
 """
 
 
