@@ -4,3 +4,4 @@ This is the first step of the coin detection model we are building. Here, we are
 ## Libraries
 - Open CV
 - NumPy
+- Matplotlib
